@@ -1,19 +1,34 @@
-<<<<<<< HEAD
-# express-mongodb-node
-前后端分离实现增删改查
-
-# 阿门
+# express-mongodb-node(redis)
+  前后端分离实现增删改查
 =======
-<<<<<<< HEAD
-# express-mongodb-node
-前后端分离实现增删改查
-=======
-# express-mongodb
+## **技术栈**
+> fe
 
-> A Vue.js project
+     vue + vue router 
+     Todo： react + mobx 
 
-## Build Setup
+> be
+    node express redis mogonose mongo
+    Todo： koa
 
+## *功能*
+    用户校验
+    token
+    email 功能
+    图片和视频
+    上传和下载
+    
+## *运维*
+    https
+    自动化部署
+    linux（pm2 wget curl等工具）
+    nginx负载均衡
+    集群    
+### *参考文档*
+  > db
+      (mogodb win下安装与启动)[https://blog.csdn.net/polo_longsan/article/details/52430539]
+      
+      
 ``` bash
 # install dependencies
 npm install
